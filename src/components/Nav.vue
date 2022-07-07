@@ -2,7 +2,7 @@
 import { pic } from "../anya";
 
 const links = [
-    { text: "Anya", url: "/" },
+    { text: "Handsome", url: "/" },
     { text: "About", url: "/about" },
     { text: "Projects", url: "/projects" },
 ];
@@ -17,7 +17,7 @@ const links = [
                 'w-full',
                 'rounded-b-lg',
                 'bg-gradient-to-r',
-                'from-violet-800',
+                'from-blue-800',
                 'to-indigo-600',
                 'pl-24',
                 'shadow-lg',

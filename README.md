@@ -1,4 +1,4 @@
-# Anya Forger's Website
+# Handsome Boy's Website
 
 An Example Website made for Modern Web Development Guided Project, one of the courses in NTNU CSIE Camp 2022.
 

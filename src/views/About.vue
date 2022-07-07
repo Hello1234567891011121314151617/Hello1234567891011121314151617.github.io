@@ -49,7 +49,7 @@ function update(delay = 0) {
             />
         </div>
         <Typing
-            text="My Pictures"
+            text="Not Me"
             :speed="50"
             v-if="step > 1"
             @done="step++"

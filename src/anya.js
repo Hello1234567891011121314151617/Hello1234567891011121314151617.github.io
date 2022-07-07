@@ -12,44 +12,24 @@ for (let i = 1; i <= 40; i++) {
         .padStart(2, "0")}.png`;
 }
 pic.avatars.push(
-    "https://spy-family.net/assets/img/special/episode4/02.png",
-    "https://spy-family.net/assets/img/special/episode4/05.png",
-    "https://spy-family.net/assets/img/special/episode5/01.png",
-    "https://spy-family.net/assets/img/special/episode5/02.png",
-    "https://spy-family.net/assets/img/special/episode6/03.png",
-    "https://spy-family.net/assets/img/special/episode6/05.png",
-    "https://spy-family.net/assets/img/special/episode7/01.png",
-    "https://spy-family.net/assets/img/special/episode7/03.png",
-    "https://spy-family.net/assets/img/special/episode7/04.png",
-    "https://spy-family.net/assets/img/special/episode8/01.png",
-    "https://spy-family.net/assets/img/special/episode9/04.png",
-    "https://spy-family.net/assets/img/special/episode10/02.png",
-    "https://spy-family.net/assets/img/special/episode10/03.png",
-    "https://spy-family.net/assets/img/special/episode10/04.png",
-    "https://spy-family.net/assets/img/special/episode11/01.png",
-    "https://spy-family.net/assets/img/special/episode11/02.png",
-    "https://spy-family.net/assets/img/special/episode11/03.png",
-    "https://spy-family.net/assets/img/special/episode11/04.png",
-    "https://spy-family.net/assets/img/special/episode11/06.png",
-    "https://spy-family.net/assets/img/special/episode12/03.png",
-    "https://spy-family.net/assets/img/special/episode12/06.png",
+    
 );
 
-const titles = ["First-Grade Student", "Test Subject 007", "Telepath"];
+const titles = ["Handsome", "Handsome", "and Handsome"];
 
 const about = [
-    "My name is Anya Forger. I am 6 years old now!",
-    "I am studing in Cecile Hall at Eden Academy.",
+    "My name is Handsome Boy. I am 15 years old now!",
+    "I am very handsome.",
     "",
     "This summer I went to NTNU CSIE Camp to learn how to code.",
-    "During the camp, I learned how to: ",
+    "During the camp, I became much more: ",
     "  - Build SPA Website with frontend framework Vue and Tailwind.",
     "  - Develop efficiently with Node.js ecosystem.",
     "  - Design and develop a gomoku gaming agent with Python.",
     "  - Operate Linux system with common commands.",
     "  - Use Git and GitHub to work on projects.",
     "",
-    'By the way, I am starring in an anime called "SPY x FAMILY". Did you watch it?',
+    'byeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee',
 ].join("\n");
 
 const projects = [
