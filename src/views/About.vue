@@ -50,7 +50,7 @@ function update(delay = 0) {
         </div>
         <Typing
             text="Not Me"
-            :speed="50"
+            :speed="51"
             v-if="step > 1"
             @done="step++"
             class="mt-4 block text-lg"
